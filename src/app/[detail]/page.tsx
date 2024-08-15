@@ -12,7 +12,7 @@ export default function DetailsPage({ params }: { params: { detail: string } }) 
         margin={"auto"}
         border={"2px solid black"}
         w={"85%"}
-        h={"80"}
+        h={"auto"}
         borderRadius={"20"}
         padding={5}
       >
