@@ -8,7 +8,7 @@ export default function Home() {
       <Center marginTop={'10'}>
         <Button>+ Create Note</Button>
       </Center>
-      <Box display={"flex"} gap={'5'} flexWrap={'wrap'} padding={'20px'} alignItems={'center'} boxShadow={'2xl'}>
+      <Box display={"flex"} gap={'5'} flexWrap={'wrap'} padding={'20px'} marginTop={'20px'} justifyContent={'center'} boxShadow={'2xl'}>
         <Card maxW="sm" boxShadow='lg' p='6' rounded='md' bg='white'>
           <CardBody >
             <Stack mt="6" spacing="3">
